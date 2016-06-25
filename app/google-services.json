@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "275817893922",
+    "firebase_url": "https://football-booking.firebaseio.com",
+    "project_id": "football-booking",
+    "storage_bucket": "football-booking.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:275817893922:android:6cb116110a52ebea",
+        "android_client_info": {
+          "package_name": "com.sehalsein.footballbooking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "275817893922-tpkmm66rmcn7u37sd6gtfho6v30jq12g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sehalsein.footballbooking",
+            "certificate_hash": "DDA0C3AE072F4998527E6604EAD17B919547B259"
+          }
+        },
+        {
+          "client_id": "275817893922-lpv6h6v8eju10g36s4i2e37qm2s1l5ns.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_tnGFUaZE4ZwiSM1EBGHKLtmzIRTcWQE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "275817893922-lpv6h6v8eju10g36s4i2e37qm2s1l5ns.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:275817893922:android:c6cd9cf586443b06",
+        "android_client_info": {
+          "package_name": "com.sehalsein.footaballbookingadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "275817893922-rk87kkk1nuh2a80ijeitqio3vd8h8i81.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sehalsein.footaballbookingadmin",
+            "certificate_hash": "DDA0C3AE072F4998527E6604EAD17B919547B259"
+          }
+        },
+        {
+          "client_id": "275817893922-lpv6h6v8eju10g36s4i2e37qm2s1l5ns.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_tnGFUaZE4ZwiSM1EBGHKLtmzIRTcWQE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "275817893922-lpv6h6v8eju10g36s4i2e37qm2s1l5ns.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

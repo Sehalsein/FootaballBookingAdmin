@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">Footaball Booking Admin</string>
+    <string name="title_activity_registration">Registration</string>
+    <string name="title_activity_login">Login</string>
+    <string name="title_activity_admin_home">AdminHome</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="full_name">Full Name</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+
+    <string name="phone_code">+971</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="booking_timing">Booking Timing</string>
+
+    <string name="approve">Approve</string>
+    <string name="reject">Reject</string>
+    <string name="register">Register</string>
+
+    <string name="setting">Setting</string>
+
+    <string name="user_detail">User Detail</string>
+
+    <string name="ground_detail">Ground Detail</string>
+    <string name="type">Type</string>
+    <string name="timing">Timing</string>
+    <string name="minimum_time">Minimum Time</string>
+    <string name="maximum_time">Maximum Time</string>
+
+
+    <string name="ground_name">Ground Name</string>
+    <string name="price_per_hour">Price (per hr)</string>
+    <string name="address">Address</string>
+    <string name="manager">Manager</string>
+
+    <string name="ground_amenities">Ground Amenities</string>
+    <string name="washroom">Washroom</string>
+    <string name="equipment_rental">Equipment Rental</string>
+    <string name="sitting_area">Sitting Area</string>
+    <string name="changing_room">Changing Room</string>
+    <string name="parking">Parking</string>
+    <string name="drinking_water">Drinking Water</string>
+
+    <string name="ground_list_id">ground</string>
+    <string name="manager_list_id">manager</string>
+    <string name="amenities_list_id">amenities</string>
+    <string name="user_list_id">user</string>
+    <string name="timing_list_id">timing</string>
+
+
+</resources>

@@ -1,0 +1,66 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+
+    <!-- BOOKING REQUEST -->
+    <dimen name="card_booking_request_radius">5dp</dimen>
+
+    <dimen name="card_booking_request_margin">16dp</dimen>
+    <dimen name="card_booking_request_margin_left">16dp</dimen>
+    <dimen name="card_booking_request_margin_right">16dp</dimen>
+    <dimen name="card_booking_request_margin_top">16dp</dimen>
+    <dimen name="card_booking_request_margin_bottom">16dp</dimen>
+
+    <dimen name="card_booking_request_padding">16dp</dimen>
+    <dimen name="card_booking_request_padding_left">16dp</dimen>
+    <dimen name="card_booking_request_padding_right">16dp</dimen>
+    <dimen name="card_booking_request_padding_top">16dp</dimen>
+    <dimen name="card_booking_request_padding_bottom">16dp</dimen>
+
+    <dimen name="card_booking_request_full_name_size">16sp</dimen>
+    <dimen name="card_booking_request_booking_time_size">16sp</dimen>
+    <dimen name="card_booking_request_phone_number_size">16sp</dimen>
+
+
+    <!-- PROFILE -->
+    <dimen name="profile_header_background_height">200dp</dimen>
+    <dimen name="profile_header_picture_height">45dp</dimen>
+    <dimen name="profile_header_picture_width">45dp</dimen>
+
+    <dimen name="profile_setting_list_height">50dp</dimen>
+
+    <dimen name="profile_setting_list_padding_top">5dp</dimen>
+    <dimen name="profile_setting_list_padding_bottom">5dp</dimen>
+    <dimen name="profile_setting_list_padding_right">5dp</dimen>
+    <dimen name="profile_setting_list_padding_left">5dp</dimen>
+
+    <dimen name="profile_setting_list_text_margin_left">16dp</dimen>
+
+    <dimen name="profile_setting_list_icon_margin_left">16dp</dimen>
+    <dimen name="profile_setting_list_icon_width">30dp</dimen>
+    <dimen name="profile_setting_list_icon_height">30dp</dimen>
+
+    <dimen name="profile_setting_list_arrow_margin_right">16dp</dimen>
+    <dimen name="profile_setting_list_arrow_height">20dp</dimen>
+    <dimen name="profile_setting_list_arrow_width">20dp</dimen>
+
+
+    <!-- REGISTRATION -->
+    <dimen name="registration_section_title_size">16sp</dimen>
+
+    <dimen name="registration_section_title_padding">16dp</dimen>
+    <dimen name="registration_section_title_padding_left">16dp</dimen>
+    <dimen name="registration_section_title_padding_right">16dp</dimen>
+    <dimen name="registration_section_title_padding_top">16dp</dimen>
+    <dimen name="registration_section_title_padding_bottom">16dp</dimen>
+
+    <dimen name="registration_section_content_padding">16dp</dimen>
+    <dimen name="registration_section_content_padding_left">16dp</dimen>
+    <dimen name="registration_section_content_padding_right">16dp</dimen>
+    <dimen name="registration_section_content_padding_top">16dp</dimen>
+    <dimen name="registration_section_content_padding_bottom">16dp</dimen>
+
+
+</resources>
